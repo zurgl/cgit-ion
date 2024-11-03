@@ -1,0 +1,11 @@
+css=/cgit.css
+logo=/gas.png
+favicon=/favicon.ico
+
+commit-filter=/usr/local/lib/cgit/filters/commit-links.sh
+source-filter=/usr/local/lib/cgit/filters/syntax-highlighting.py
+about-filter=/usr/local/lib/cgit/filters/about-formatting.sh
+readme=:README.md
+
+scan-path=/home/nginx/git
+virtual-root=/
